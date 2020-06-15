@@ -1,0 +1,23 @@
+{
+  "name": "books",
+  "version": "0.0.1",
+  "description": "part8 project book graphql",
+  "main": "library-backend.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikaellafs/fullstack-part8-books.git"
+  },
+  "author": "Mikaella Ferreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikaellafs/fullstack-part8-books/issues"
+  },
+  "homepage": "https://github.com/mikaellafs/fullstack-part8-books#readme",
+  "dependencies": {
+    "apollo-server": "^2.14.4",
+    "graphql": "^15.1.0"
+  }
+}
