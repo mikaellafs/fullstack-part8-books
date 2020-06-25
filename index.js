@@ -12,7 +12,7 @@ const User = require('./models/user')
 
 const mongoose = require('mongoose')
 
-const MONGODB_URI = 'mongodb+srv://mikaellafs:mikamika7@cluster0-5k8gq.gcp.mongodb.net/library?retryWrites=true&w=majority'
+const MONGODB_URI = ''
 
 mongoose.set('useCreateIndex', true)
 
